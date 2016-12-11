@@ -1,0 +1,73 @@
+
+Body{
+background-image : url("http://www.azdeepskies.com/_Media/m51registar_1.gif")
+}
+
+p{
+
+  border:3px dotted #0A7E8C;
+  color:#ffffff;
+  font-size:24px;
+  font-family: 'Reenie Beanie', cursive;
+  line-height:50px;
+}
+
+h1 {
+  color: silver;
+  font-size:29px;
+  font-family: 'Amatica SC', cursive;
+  text-align:center;
+}
+h2{
+    font-size:22px
+    text-align:center;
+    letter-spacing:4px;
+    margin:10px;
+    padding:10px;
+    boarder;22px;
+}
+
+h3{
+    color:#A57164;
+    font-size:33px;
+    font-family: 'Fredericka the Great', cursive;
+  font-variant:small-caps;
+}
+
+h4
+{
+    Color:#0A7E8C;
+    font-size: 44px;
+    font-family: 'Amatica SC', cursive;
+  float:left;
+    margin:0px;S
+    border:0px;
+    padding:20px;
+    width:200 px
+
+}
+
+h5
+{
+    font-size:54px;
+  text-align:right;
+  font-family: 'Kranky', cursive;
+  padding:0px;
+    margin:0px;
+    border:0px;
+}
+
+h6
+{
+    font-size:66px;
+    font-style:italic;
+}
+
+
+
+footer
+{
+  color:white;
+  font-family: 'Kranky', cursive;
+  font-size:111px;
+}
